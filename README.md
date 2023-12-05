@@ -1,7 +1,3 @@
-### 👋
-
-<br /> <br />
-
 ## Languages & Technologies
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/cpp.svg" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/c.svg" />
