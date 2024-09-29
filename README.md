@@ -6,6 +6,7 @@
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/js.svg" />
 <img align="left" alt="Html 5" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/html5.svg" />
 <img align="left" alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/css3.svg" />
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/8bf40c002e1db76a21bc97daee43f1c5458b5e97/icons/bash.svg" />
 
 <br /> <br />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/linux.svg" />
