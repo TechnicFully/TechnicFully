@@ -1,4 +1,10 @@
-## Languages & Technologies
+### Social
+[<img align="left" alt="TechnicFully | Twitter" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/refs/heads/main/icons/twitter.svg" />][twitter]
+[<img align="left" alt="TechnicFully | Letterboxd" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/refs/heads/main/icons/letterboxd.svg" />][letterboxd]
+
+
+<br /> <br />
+### Languages & Technologies
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/cpp.svg" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/c.svg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/java.svg" />
@@ -18,3 +24,7 @@
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/refs/heads/main/icons/flask.svg" />
 <br /> <br />
 <img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/aws.svg" />
+
+
+[twitter]: https://x.com/TechnicFully
+[letterboxd]: https://letterboxd.com/TechnicFully/
