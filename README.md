@@ -1,5 +1,7 @@
 ### Social
 [<img align="left" alt="TechnicFully | Twitter" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/refs/heads/main/icons/twitter.svg" />][twitter]
+[<img align="left" alt="TechnicFully | YouTube" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/refs/heads/main/icons/youtube.svg" />][youtube]
+[<img align="left" alt="TechnicFully | Linktree" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/refs/heads/main/icons/linktree.svg" />][linktree]
 [<img align="left" alt="TechnicFully | Letterboxd" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/refs/heads/main/icons/letterboxd.svg" />][letterboxd]
 
 
@@ -15,6 +17,7 @@
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/8bf40c002e1db76a21bc97daee43f1c5458b5e97/icons/bash.svg" />
 
 <br /> <br />
+<img align="left" alt="11ty" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/11ty.svg" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/linux.svg" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/docker.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/mysql.svg" />
@@ -22,9 +25,12 @@
 <br /> <br />
 <img align="left" alt="Qt" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/qt.svg" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/refs/heads/main/icons/flask.svg" />
+
 <br /> <br />
 <img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/TechnicFully/TechnicFully/main/icons/aws.svg" />
 
 
 [twitter]: https://x.com/TechnicFully
+[youtube]: https://youtube.com/@TechnicFully
+[linktree]: https://linktr.ee/technicfully
 [letterboxd]: https://letterboxd.com/TechnicFully/
